@@ -1,0 +1,3 @@
+Fichero ejercicio 7.
+Ejemplo de copiar fichero.
+Pasandole la ruta de este y el destino.
